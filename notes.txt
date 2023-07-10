@@ -1,0 +1,2 @@
+Error   bash: .venv/bin/activate: Permission denied
+Solution You need to run          . venv/bin/activate
